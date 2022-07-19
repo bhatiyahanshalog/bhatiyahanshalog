@@ -66,6 +66,7 @@
 
 <h5> Version Control</h5>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> git </a> 
+<br/>
 
 <h5>Cross Platform</h5>
 <ol>
