@@ -45,7 +45,7 @@
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> typescript </a></li>
 </ol>
 <br/>
-<br/>
+
 <h5> Frontend </h5>
 <ol>
   <li>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg"          alt="angular" width="40" height="40"/> angular </a> 
@@ -56,16 +56,12 @@
 </li>
 </ol>
 <br/>
-<br/>
+
 <h5> Backend </h5>
 <ol>
   <li><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> nestjs </a></li>
   <li><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> expressjs </a> </li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ol>
-<br/>
 <br/>
 
 <h5> Version Control</h5>
@@ -77,7 +73,6 @@
   <li> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> electronjs</li>
 </ol>
 <br/>
-<br/>
 
 <h5> DevOps </h5>
 <ol>
@@ -86,7 +81,6 @@
   <li><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> kubernetes </a></li>
   <li><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> nginx </a> </li>
 </ol>
-<br/>
 <br/>
 
 <h5> Database </h5>
