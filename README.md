@@ -1,7 +1,7 @@
 # console.log(AboutMe) 👦🏻
 
 <h2 align="center">Hi 👋, I'm Bhatiya Hanshal</h1>
-<h3 align="center">A cool learner || 15 year old kid (**boy**) </h3>
+<h3 align="center">A cool learner || 15 year old kid || boy </h3>
 
 - 🔭 I’m currently working on [myblogie](https://secret(cant'share))
 
