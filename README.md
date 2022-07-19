@@ -34,7 +34,7 @@
     <br/>
 <a href="https://discord.gg/jYqQjmC5jH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jYqQjmC5jH" height="30" width="40" /> discord </a>
     <br/>
-          <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>
+          <br/>  <br/>  <br/>
 </p>
 
 # console.log(Languages&Tools) 💻     // which I use 😅
@@ -79,7 +79,7 @@
       <br/>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> typescript </a> 
     <br/>
-    <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>
+    <br/>  <br/>  <br/>
 </p>
 
 # console.log(RandomQuote) ✍️
